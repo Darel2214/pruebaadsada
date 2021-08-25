@@ -1,0 +1,18 @@
+librerias
+accios
+bustrap
+nukis
+nprogres 
+reackbustrap
+
+como framework usamos nestjs usa la libreria react
+
+app.js es el archivo principal
+
+funcion myapp que recibe los componentes y propiedades
+en react se maneja todo como componentes funcionales
+
+en la parte del logn 
+importamos hooks que es useState para el manejo deestados del componente login 
+definimos el estado con una constate form y una que lo modifica llamdado setform
+

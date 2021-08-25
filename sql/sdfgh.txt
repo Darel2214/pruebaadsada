@@ -1,0 +1,8 @@
+patron de diseño singleton 
+
+como sera nuestro token va a contener sub y rol sub es el id y va a contener el rol del usuario
+
+
+modelo de roles tipo enum
+
+jsweb token usa el guardian de los roles para verificar

@@ -1,0 +1,42 @@
+utilizamos nestjs como framework para backend 
+usamos la base de datos postges
+usamos una de las herramientas que usa typescript 
+usamos typeorm para el manejo de la abse de datos
+tenemos un carchivoi de configuracion que se llama conf.json 
+usamos 2 modulos creaod en la estructura de nest 
+el prinmero es usuarios en susuarios definimos la identidad 
+usamos una primary key generada
+
+es una id que contiene numeros y letras
+
+el rol de customer
+
+usamos un decorador de class tranformer paraa eitar que en las consutas
+se nos vengan las contraseñas(en bdd)
+definimos los dto es una clase que define los parametros para poder almacenar 
+en la base de datos usamos decoradores de class validator 
+
+
+user service
+manejamos la funcionalidad del controlador, 
+primero crear
+segundo buscar por id
+tercero buscar por el email
+
+
+controlador
+
+definimos una clase user controler
+importamosm el servicio que generamos anteriormente para poder usar
+poder usar las funcoinjes que definimos anteriormente
+usamos un decorador que se llama classserializerInterceptor
+
+
+Antes que se jecute la funcion va a verificar los cmaapls en caso de que no llegue
+te mandara un error 
+
+creamos otra ruta que se llaam ME para buscarme ami mismo 
+
+
+
+
